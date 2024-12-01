@@ -1,5 +1,7 @@
 # Liar's Bar Anti-Cheat
 
+# Credits to tyzeron for obfuscation stuff (https://github.com/tyzeron/LiarsAntiCheat/releases/tag/v1.0.1)
+
 Welcome to the **Liar's Bar Anti-Cheat**!
 
 [Liar's Bar](https://store.steampowered.com/app/3097560/Liars_Bar/) 
